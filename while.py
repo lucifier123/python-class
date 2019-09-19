@@ -1,5 +1,4 @@
 i=0
 while(i<5):
-    print("HELLO")
+    print(i)
     i=i+1
-    
